@@ -7,6 +7,7 @@ import { vitestConfig } from './vitestConfig'
 export default defineConfig({
   test: {
     // globals: true
+    environment: "jsdom",
     ...vitestConfig
   },
   plugins: [vue()]
