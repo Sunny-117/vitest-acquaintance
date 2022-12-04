@@ -2,6 +2,6 @@
 
 ## reference
 
-[vitest](https://vitest.dev/)
+[vitest](https://cn.vitest.dev/)
 
 [vitest-guide](https://github.com/cuixiaorui/vitest-tutorial)
